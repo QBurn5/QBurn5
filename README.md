@@ -21,4 +21,4 @@
 
 [twitter]: https://twitter.com/Jane
 [instagram]: https://www.instagram.com/Jane
-[linkedin]: https://linkedin.com/in/Jane
+[linkedin]: https://www.linkedin.com/in/quinton-burns-112218177/
