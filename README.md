@@ -10,8 +10,8 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/QBurn5/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/QBurn5/azure-network-protocols)
  
-- <b>Deliverable 1</b>
-  - [Coffee Shop Website](https://github.com/QBurn5/configure-ad)
+- <b>Coffee Shop Website</b>
+  - [Deliverable 1](https://github.com/QBurn5/Deliverable-1)
 
 <h2>🤳Connect with me:</h2>
 
