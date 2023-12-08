@@ -1,6 +1,6 @@
 <h1>Hi, I'm Quinton, an <a href="https://linkedin.com/in/JaneDoe">IT Amateur</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/QBurn5/osticket-prereqs)
