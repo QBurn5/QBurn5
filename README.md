@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/QBurn5/Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/QBurn5/Ticket-Lifestyle-Examples)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/QBurn5/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/QBurn5/Azure-VMs.git)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/QBurn5/azure-network-protocols)
  
 - <b>Coffee Shop Website</b>
