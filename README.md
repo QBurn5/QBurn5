@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/QBurn5/Ticket-Lifestyle-Examples)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/QBurn5/Azure-VMs.git)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/QBurn5/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/QBurn5/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols.git)
  
 - <b>Coffee Shop Website</b>
   - [Deliverable 1](https://github.com/QBurn5/Deliverable-1)
