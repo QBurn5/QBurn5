@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/QBurn5/osticket-prereqs)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/QBurn5/Ticket-Lifestyle-Examples)
 - <b>Microsoft Azure</b>
-  - [Creating and Using Azure VMs](https://github.com/QBurn5/Azure-VMs.git)
+  - [Creating Azure VMs](https://github.com/QBurn5/Azure-VMs.git)
 - <b>Coffee Shop Website</b>
   - [Deliverable 1](https://github.com/QBurn5/Deliverable-1)
 
